@@ -8,5 +8,5 @@ def transcribe_audio(file_path: str) -> str:
 
 if __name__ == "__main__":
     # Código para teste direto do arquivo (apenas para debug)
-    test_audio = "path/to/audio/file.mp3"
+    test_audio = r"C:\CABOCLO SONHADOR.mp3"
     print(transcribe_audio(test_audio))
